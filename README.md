@@ -8,3 +8,7 @@ Beat detection and cut to music video creator (python based, music beat detectio
    
 ### Second
 End-to-End Spoken Language Understanding
+
+### Third
+Simple Beats of Drums including all its components.
+* [Beat-JS](https://github.com/Ishaan28malik/Beats-js)
